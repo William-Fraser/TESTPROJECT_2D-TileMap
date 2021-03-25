@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: cd5d27100ffbd024d910197fd085afa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3069464641453116144
+    second: 224x224_Diamond_SpriteSheet_0
+  - first:
+      213: -974528339801654417
+    second: 224x224_Diamond_SpriteSheet_1
+  - first:
+      213: -4734002107404791779
+    second: 224x224_Diamond_SpriteSheet_2
+  - first:
+      213: -7719548731301682948
+    second: 224x224_Diamond_SpriteSheet_3
+  - first:
+      213: 7739063822370594784
+    second: 224x224_Diamond_SpriteSheet_4
+  - first:
+      213: 3621351096995636583
+    second: 224x224_Diamond_SpriteSheet_5
+  - first:
+      213: -233276544436783901
+    second: 224x224_Diamond_SpriteSheet_6
+  - first:
+      213: -3311479539331345157
+    second: 224x224_Diamond_SpriteSheet_7
+  - first:
+      213: 7458401397720897100
+    second: 224x224_Diamond_SpriteSheet_8
+  - first:
+      213: 2994768324909112050
+    second: 224x224_Diamond_SpriteSheet_9
+  - first:
+      213: 6374290581825609190
+    second: 224x224_Diamond_SpriteSheet_10
+  - first:
+      213: 7441046578235110359
+    second: 224x224_Diamond_SpriteSheet_11
+  - first:
+      213: 972640422410738884
+    second: 224x224_Diamond_SpriteSheet_12
+  - first:
+      213: 1545815439250127634
+    second: 224x224_Diamond_SpriteSheet_13
+  - first:
+      213: 6434315446651038494
+    second: 224x224_Diamond_SpriteSheet_14
+  - first:
+      213: 312040778257186999
+    second: 224x224_Diamond_SpriteSheet_15
+  - first:
+      213: -1168656784413353367
+    second: 224x224_Diamond_SpriteSheet_16
+  - first:
+      213: -3500852746920834726
+    second: 224x224_Diamond_SpriteSheet_17
+  - first:
+      213: 3083133814640366068
+    second: 224x224_Diamond_SpriteSheet_18
+  - first:
+      213: -3895646253602115696
+    second: 224x224_Diamond_SpriteSheet_19
+  - first:
+      213: -6631705272072390790
+    second: 224x224_Diamond_SpriteSheet_20
+  - first:
+      213: 4799480797431663605
+    second: 224x224_Diamond_SpriteSheet_21
+  - first:
+      213: -4715285363422178006
+    second: 224x224_Diamond_SpriteSheet_22
+  - first:
+      213: -2501011260643762506
+    second: 224x224_Diamond_SpriteSheet_23
+  - first:
+      213: 4501194731469286136
+    second: 224x224_Diamond_SpriteSheet_24
+  - first:
+      213: 167150236568308060
+    second: 224x224_Diamond_SpriteSheet_25
+  - first:
+      213: 5860715738711087722
+    second: 224x224_Diamond_SpriteSheet_26
+  - first:
+      213: 3071007160549873960
+    second: 224x224_Diamond_SpriteSheet_27
+  - first:
+      213: -1259616149494007053
+    second: 224x224_Diamond_SpriteSheet_28
+  - first:
+      213: -8083201402105150597
+    second: 224x224_Diamond_SpriteSheet_29
+  - first:
+      213: 6701048719299449073
+    second: 224x224_Diamond_SpriteSheet_30
+  - first:
+      213: -6494699946522174557
+    second: 224x224_Diamond_SpriteSheet_31
+  - first:
+      213: 7125012585482161444
+    second: 224x224_Diamond_SpriteSheet_32
+  - first:
+      213: 5486433670253500572
+    second: 224x224_Diamond_SpriteSheet_33
+  - first:
+      213: -5659391272895648620
+    second: 224x224_Diamond_SpriteSheet_34
+  - first:
+      213: -1203254938945310309
+    second: 224x224_Diamond_SpriteSheet_35
+  - first:
+      213: -8676111009340022590
+    second: 224x224_Diamond_SpriteSheet_36
+  - first:
+      213: -3518525247165298553
+    second: 224x224_Diamond_SpriteSheet_37
+  - first:
+      213: 8455404717050530218
+    second: 224x224_Diamond_SpriteSheet_38
+  - first:
+      213: -8377536033662669917
+    second: 224x224_Diamond_SpriteSheet_39
+  - first:
+      213: -5705325187817783011
+    second: 224x224_Diamond_SpriteSheet_40
+  - first:
+      213: -1893216277024777579
+    second: 224x224_Diamond_SpriteSheet_41
+  - first:
+      213: -5091993236398963596
+    second: 224x224_Diamond_SpriteSheet_42
+  - first:
+      213: -1111316454719655213
+    second: 224x224_Diamond_SpriteSheet_43
+  - first:
+      213: 6005060005626515808
+    second: 224x224_Diamond_SpriteSheet_44
+  - first:
+      213: -8406039131878024932
+    second: 224x224_Diamond_SpriteSheet_45
+  - first:
+      213: 4470965901510578141
+    second: 224x224_Diamond_SpriteSheet_46
+  - first:
+      213: -5371245348810510158
+    second: 224x224_Diamond_SpriteSheet_47
+  - first:
+      213: -6185796919161055720
+    second: 224x224_Diamond_SpriteSheet_48
+  - first:
+      213: 7501820222605674933
+    second: 224x224_Diamond_SpriteSheet_49
+  - first:
+      213: 8391207598133805698
+    second: 224x224_Diamond_SpriteSheet_50
+  - first:
+      213: 6892544242998499862
+    second: 224x224_Diamond_SpriteSheet_51
+  - first:
+      213: 3471713006273815290
+    second: 224x224_Diamond_SpriteSheet_52
+  - first:
+      213: 2797631676554013899
+    second: 224x224_Diamond_SpriteSheet_53
+  - first:
+      213: -2076003703013838183
+    second: 224x224_Diamond_SpriteSheet_54
+  - first:
+      213: -7029651135190411204
+    second: 224x224_Diamond_SpriteSheet_55
+  - first:
+      213: -9080220481940929666
+    second: 224x224_Diamond_SpriteSheet_56
+  - first:
+      213: 4288565980446287142
+    second: 224x224_Diamond_SpriteSheet_57
+  - first:
+      213: -2157619448349835300
+    second: 224x224_Diamond_SpriteSheet_58
+  - first:
+      213: -267029873118492275
+    second: 224x224_Diamond_SpriteSheet_59
+  - first:
+      213: -5410143412046287384
+    second: 224x224_Diamond_SpriteSheet_60
+  - first:
+      213: -3786521230977823769
+    second: 224x224_Diamond_SpriteSheet_61
+  - first:
+      213: -5865065550552263006
+    second: 224x224_Diamond_SpriteSheet_62
+  - first:
+      213: -7803680905785509293
+    second: 224x224_Diamond_SpriteSheet_63
+  - first:
+      213: 6197595147373378336
+    second: 224x224_Diamond_SpriteSheet_64
+  - first:
+      213: 2206637707768278477
+    second: 224x224_Diamond_SpriteSheet_65
+  - first:
+      213: 8208656706170732036
+    second: 224x224_Diamond_SpriteSheet_66
+  - first:
+      213: 414638755326329095
+    second: 224x224_Diamond_SpriteSheet_67
+  - first:
+      213: 1562534089048064128
+    second: 224x224_Diamond_SpriteSheet_68
+  - first:
+      213: -8414721720729808252
+    second: 224x224_Diamond_SpriteSheet_69
+  - first:
+      213: 6844457040640753620
+    second: 224x224_Diamond_SpriteSheet_70
+  - first:
+      213: 7251189187691308118
+    second: 224x224_Diamond_SpriteSheet_71
+  - first:
+      213: -3243523529584304616
+    second: 224x224_Diamond_SpriteSheet_72
+  - first:
+      213: -7301321014876770427
+    second: 224x224_Diamond_SpriteSheet_73
+  - first:
+      213: 3966740060549070012
+    second: 224x224_Diamond_SpriteSheet_74
+  - first:
+      213: -8289948331716207106
+    second: 224x224_Diamond_SpriteSheet_75
+  - first:
+      213: -9078964081927340710
+    second: 224x224_Diamond_SpriteSheet_76
+  - first:
+      213: 4913476948715115909
+    second: 224x224_Diamond_SpriteSheet_77
+  - first:
+      213: 1844051437846115190
+    second: 224x224_Diamond_SpriteSheet_78
+  - first:
+      213: 4457719279447477731
+    second: 224x224_Diamond_SpriteSheet_79
+  - first:
+      213: 4894251603645972445
+    second: 224x224_Diamond_SpriteSheet_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b09bdb221765d0800000000000000
+      internalID: -3069464641453116144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b329263a7c972f0800000000000000
+      internalID: -974528339801654417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10df264a227d4eb0800000000000000
+      internalID: -4734002107404791779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0227c2457aed490800000000000000
+      internalID: -7719548731301682948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd97a0b8da66b60800000000000000
+      internalID: 7739063822370594784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765656fc2af914230800000000000000
+      internalID: 3621351096995636583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43a62083c33ccf0800000000000000
+      internalID: -233276544436783901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45e2967e24b02d0800000000000000
+      internalID: -3311479539331345157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c465e6f0e80918760800000000000000
+      internalID: 7458401397720897100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa9cceaced8f8920800000000000000
+      internalID: 2994768324909112050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed55d00387067850800000000000000
+      internalID: 6374290581825609190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f6d44078e34760800000000000000
+      internalID: 7441046578235110359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5af79f438f7d00800000000000000
+      internalID: 972640422410738884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b71d0b3f6d37510800000000000000
+      internalID: 1545815439250127634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba17aeec74b4950800000000000000
+      internalID: 6434315446651038494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c47f3f67945400800000000000000
+      internalID: 312040778257186999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a11bca8d818cfe0800000000000000
+      internalID: -1168656784413353367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5945d899f87a6fc0800000000000000
+      internalID: -3500852746920834726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 224x224_Diamond_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f152a88edd79ca20800000000000000
+      internalID: 3083133814640366068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

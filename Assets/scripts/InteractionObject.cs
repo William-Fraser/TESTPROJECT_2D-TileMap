@@ -18,6 +18,12 @@ public class InteractionObject : MonoBehaviour
     [Tooltip("Object can be picked up")]
     public bool pickup = false;
 
+    [Header("Dialogue Object")]
+    [Tooltip("Object displays text box and chain of dialogue")]
+    public bool talks = false;
+    [TextArea]
+    public string[] sentances;
+
     private Interactable _InteractableState;
     private enum Interactable{ 
         STATE_NULL,
@@ -29,7 +35,7 @@ public class InteractionObject : MonoBehaviour
     void Start()
     {
         infoText = GameObject.Find("InfoText").GetComponent<Text>();
-    }
+    }    
     public void Info()
     {
         Debug.Log("this is a "+ this.gameObject.name);
@@ -39,6 +45,11 @@ public class InteractionObject : MonoBehaviour
     {
         Debug.Log("picked up a " + this.gameObject.name);
         this.gameObject.SetActive(false);
+    }
+    public void Talks()
+    {
+        Debug.Log("you're looking at " + this.gameObject.name);
+        FindObjectOfType<DialogueManager>().StartDialogue(sentances);
     }
     IEnumerator ShowInfo(string message, float delay)
     {

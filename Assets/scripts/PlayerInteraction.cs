@@ -20,6 +20,10 @@ public class PlayerInteraction : MonoBehaviour
             {
                 currentInterObjScript.Info();
             }
+            if (currentInterObjScript.talks)
+            {
+                currentInterObjScript.Talks();
+            }
         }
     }
     private void OnTriggerStay2D(Collider2D collision)
